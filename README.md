@@ -1,4 +1,5 @@
-Deadline Chasing Warriors by Steven Wen / HTML5 UP
+Deadline Chasing Warriors by Steven Wen / HTML5 UP (CISC 322 Course Project)
+Website address: https://stevenn2333.github.io/deadlinechasingwarriors/
 
 
 Credits:
